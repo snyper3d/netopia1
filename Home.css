@@ -1,16 +1,16 @@
  .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url("images/f01b798453f0fbc49a1ad4b8355d7a153c4d754da8cfb6a54af2584b5451e5f5ec59b362e75110be23cd2a9471396d368938023c6d1980f7b879b4_1280.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url("images/29975374-01.jpeg");
   background-position: 50% 50%;
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 870px;
+  min-height: 603px;
 }
 
 .u-section-1 .u-list-1 {
   grid-template-rows: auto;
   width: 524px;
-  margin: 355px 0 0 auto;
+  margin: 180px 0 0 auto;
 }
 
 .u-section-1 .u-repeater-1 {
@@ -122,7 +122,7 @@
 .u-section-1 .u-text-5 {
   font-size: 6rem;
   font-weight: 700;
-  margin: -398px 570px 292px 0;
+  margin: -398px 570px 60px 0;
 }
 
 @media (max-width: 1199px) {
