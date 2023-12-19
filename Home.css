@@ -132,19 +132,19 @@
 
   .u-section-1 .u-list-1 {
     width: 489px;
-    height: auto;
-    margin-top: 437px;
+    margin-top: 152px;
   }
 
   .u-section-1 .u-repeater-1 {
-    grid-template-columns: repeat(2, calc(50% - 15px));
+    min-height: 411px;
   }
 
   .u-section-1 .u-text-5 {
     font-size: 4.0625rem;
     width: auto;
-    margin-top: -363px;
-    margin-right: 537px;
+    margin-top: -241px;
+    margin-right: 525px;
+    margin-left: 12px;
   }
 }
 
@@ -154,15 +154,21 @@
   }
 
   .u-section-1 .u-list-1 {
+    height: auto;
     margin-top: 605px;
     margin-right: auto;
     margin-left: 0;
+  }
+
+  .u-section-1 .u-repeater-1 {
+    grid-template-columns: repeat(2, calc(50% - 15px));
   }
 
   .u-section-1 .u-text-5 {
     font-size: 4.5rem;
     margin-top: -730px;
     margin-right: 231px;
+    margin-left: 0;
   }
 }
 
@@ -198,7 +204,7 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 1152px;
+    min-height: 1213px;
   }
 
   .u-section-1 .u-list-1 {
