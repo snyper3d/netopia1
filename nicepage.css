@@ -42050,7 +42050,7 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-table-alt-custom-color-2 tr:nth-child(even)
         {
             color: #111111;
-            background-color: rgba(255,255,255,0.37);
+            background-color: rgba(255,255,255,0.44);
         }
 
         .u-input.u-custom-color-2,
@@ -42059,7 +42059,7 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-button-style.u-custom-color-2[class*="u-border-"]
         {
             color: #111111 !important;
-            background-color: rgba(255,255,255,0.37) !important;
+            background-color: rgba(255,255,255,0.44) !important;
         }
 
         .u-button-style.u-custom-color-2:hover,
@@ -42074,7 +42074,7 @@ a.u-link.u-text-hover-grey-90:hover {
         li.active > .u-button-style.u-button-style.u-custom-color-2[class*="u-border-"]
         {
             color: #111111 !important;
-            background-color: rgba(230,230,230,0.37) !important;
+            background-color: rgba(230,230,230,0.44) !important;
         }
 
         .u-hover-custom-color-2:hover,
@@ -42102,11 +42102,11 @@ a.u-link.u-text-hover-grey-90:hover {
         input.u-field-input.u-field-input.u-active-custom-color-2:checked
         {
             color: #111111 !important;
-            background-color: rgba(255,255,255,0.37) !important;
+            background-color: rgba(255,255,255,0.44) !important;
         }
 
         a.u-link.u-hover-custom-color-2:hover {
-            color: rgba(255,255,255,0.37) !important;
+            color: rgba(255,255,255,0.44) !important;
         }
 
         
@@ -42168,14 +42168,14 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-border-custom-color-2.u-field-input.u-field-input,
         .u-separator-custom-color-2:after
         {
-            border-color: rgba(255,255,255,0.37);
-            stroke: rgba(255,255,255,0.37);
+            border-color: rgba(255,255,255,0.44);
+            stroke: rgba(255,255,255,0.44);
         }
 
         .u-button-style.u-border-custom-color-2
         {
-            border-color: rgba(255,255,255,0.37) !important;
-            color: rgba(255,255,255,0.37) !important;
+            border-color: rgba(255,255,255,0.44) !important;
+            color: rgba(255,255,255,0.44) !important;
             background-color: transparent !important;
         }
 
@@ -42183,7 +42183,7 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-button-style.u-border-custom-color-2:focus
         {
             border-color: transparent !important;
-            color: rgba(230,230,230,0.37) !important;
+            color: rgba(230,230,230,0.44) !important;
             background-color: transparent !important;
         }
 
@@ -42199,18 +42199,18 @@ a.u-link.u-text-hover-grey-90:hover {
         li.active > a.u-button-style.u-button-style.u-border-active-custom-color-2,
         input.u-field-input.u-field-input.u-border-active-custom-color-2:checked
         {
-            color: rgba(255,255,255,0.37) !important;
-            border-color: rgba(255,255,255,0.37) !important;
+            color: rgba(255,255,255,0.44) !important;
+            border-color: rgba(255,255,255,0.44) !important;
         }
 
         .u-link.u-border-custom-color-2[class*="u-border-"]
         {
-            border-color: rgba(255,255,255,0.37) !important;
+            border-color: rgba(255,255,255,0.44) !important;
         }
 
         .u-link.u-border-custom-color-2[class*="u-border-"]:hover
         {
-            border-color: rgba(230,230,230,0.37) !important;
+            border-color: rgba(230,230,230,0.44) !important;
         }
         
 
@@ -42293,7 +42293,7 @@ a.u-link.u-text-hover-grey-90:hover {
         a.u-button-style.u-text-custom-color-2,
         a.u-button-style.u-text-custom-color-2[class*="u-border-"]
         {
-            color: rgba(255,255,255,0.37) !important;
+            color: rgba(255,255,255,0.44) !important;
         }
 
         a.u-button-style.u-text-custom-color-2:hover,
@@ -42305,7 +42305,7 @@ a.u-link.u-text-hover-grey-90:hover {
         a.u-button-style.u-button-style.u-text-custom-color-2.active,
         a.u-button-style.u-button-style.u-text-custom-color-2[class*="u-border-"].active
         {
-            color: rgba(230,230,230,0.37) !important;
+            color: rgba(230,230,230,0.44) !important;
         }
 
         a.u-button-style:hover > .u-text-hover-custom-color-2,
@@ -42332,7 +42332,7 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-popupmenu-items.u-text-hover-custom-color-2 .u-nav-link:hover,
         .u-popupmenu-items.u-popupmenu-items.u-text-active-custom-color-2 .u-nav-link.active
         {
-            color: rgba(255,255,255,0.37) !important;
+            color: rgba(255,255,255,0.44) !important;
         }
 
         .u-text-custom-color-2 .u-svg-link,
@@ -42341,17 +42341,17 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-button-style.u-button-style.active > .u-text-active-custom-color-2 .u-svg-link,
         .u-text-hover-custom-color-2:focus .u-svg-link
         {
-            fill: rgba(255,255,255,0.37);
+            fill: rgba(255,255,255,0.44);
         }
 
         .u-link.u-text-custom-color-2:hover
         {
-            color: rgba(230,230,230,0.37) !important;
+            color: rgba(230,230,230,0.44) !important;
         }
 
         a.u-link.u-text-hover-custom-color-2:hover
         {
-            color: rgba(255,255,255,0.37) !important;
+            color: rgba(255,255,255,0.44) !important;
         }
 
         .u-body
@@ -42855,7 +42855,12 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 1199px) {
   .u-footer .u-sheet-1 {
-    min-height: 99px;
+    min-height: 55px;
+  }
+
+  .u-footer .u-text-1 {
+    margin-top: 16px;
+    margin-bottom: 15px;
   }
 }
 @media (max-width: 991px) {
