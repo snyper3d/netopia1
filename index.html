@@ -1,0 +1,29 @@
+import Nav from "@/components/site/Nav";
+import Hero from "@/components/site/Hero";
+import Stats from "@/components/site/Stats";
+import Capabilities from "@/components/site/Capabilities";
+import Unit from "@/components/site/Unit";
+import UniFi from "@/components/site/UniFi";
+import UseCases from "@/components/site/UseCases";
+import Deploy from "@/components/site/Deploy";
+import Footer from "@/components/site/Footer";
+
+const Index = () => {
+  return (
+    <div className="min-h-screen bg-background text-foreground">
+      <Nav />
+      <main>
+        <Hero />
+        <Stats />
+        <Capabilities />
+        <Unit />
+        <UseCases />
+        <UniFi />
+        <Deploy />
+      </main>
+      <Footer />
+    </div>
+  );
+};
+
+export default Index;
